@@ -1,0 +1,66 @@
+html, body {
+    margin:0 ;
+    padding:0;
+    height: 100vh;
+    
+    
+   
+    
+    
+}
+body {
+    background-image:url(https://wallpapercave.com/wp/wp4972597.jpg);
+    background-repeat: repeat-y;
+
+    
+    
+    
+    
+    
+}
+.card {
+padding: 1em;
+width: 25%;
+margin-top: 2em;
+background-color: white;
+text-align: center;
+position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+
+
+
+
+
+
+}
+
+h1, p {
+    color:black;
+    margin:1em;
+    
+}
+p, body{
+    color:black;
+    margin:1em;
+}
+.header-photo {
+    width: 460px;}
+   .article {
+    
+    color:black;
+   }
+
+   p.article {
+    margin: 1.5em;
+    font-size: 22px;
+    
+   }
+
+   /* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/others/oth-1/oth41.cur), auto !important;} /* End https://www.cursors-4u.com */
+
+ 
+   
+ 
